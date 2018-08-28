@@ -36,7 +36,7 @@
                         <barButtonItem key="rightBarButtonItem" systemItem="add" id="LE6-id-wdO">
                             <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                             <connections>
-                                <action selector="addButtonPressed:" destination="aVV-zG-yaX" id="xgA-ai-48b"/>
+                                <action selector="addbuttonpressed:" destination="aVV-zG-yaX" id="O96-nk-ohg"/>
                             </connections>
                         </barButtonItem>
                     </navigationItem>
