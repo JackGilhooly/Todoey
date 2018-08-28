@@ -40,6 +40,9 @@
                             </connections>
                         </barButtonItem>
                     </navigationItem>
+                    <connections>
+                        <outlet property="addBtnPressed" destination="LE6-id-wdO" id="HKe-mA-YLS"/>
+                    </connections>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="xD9-3U-vvu" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
